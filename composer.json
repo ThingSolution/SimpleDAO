@@ -1,0 +1,12 @@
+{
+  "name": "ThingSolution/SimpleDAO",
+  "description": "The Simple DAO libs for PHP",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Michael",
+      "email": "hungnv038@gmail.com"
+    }
+  ]
+}
